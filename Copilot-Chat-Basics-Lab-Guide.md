@@ -133,15 +133,26 @@ Draft an email update to my manager.
 
 ---
 
-## Task 2: Calendar check plus meeting follow-up draft
+## Step 2: Calendar check plus meeting follow-up draft
 
 **Goal:** Find an upcoming meeting and prepare a follow-up message.
 
-### Prompt flow
-1. When is my next 1:1 meeting with *[person]*?
-2. Show recent related emails.
-3. Draft a short email confirming the meeting.
-4. Rewrite the email to be professional and under 120 words.
+### Open a new Chat and enter the following:
+```
+When is my next 1:1 meeting with *[person]*?
+```
+
+```
+Show recent related emails.
+```
+
+```
+Draft a short email confirming the meeting.
+```
+
+```
+Rewrite the email to be professional and under 120 words.
+```
 
 ---
 
