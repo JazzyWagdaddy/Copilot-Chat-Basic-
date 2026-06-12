@@ -6,6 +6,12 @@
 
 **You'll need:** A web browser and access to copilot.microsoft.com (or the Copilot app/pane your organization uses)
 
+***Remember GCSE
+- Goal
+- Context
+- Source
+- Expectations
+
 ---
 
 ## Before You Start
@@ -49,7 +55,9 @@ explains the delay and proposes a solution.
 
 **Step 1.** Copy and paste the paragraph below into Copilot Chat:
 
-> "Hybrid work has become the norm for many organizations, but it introduces challenges around collaboration, scheduling, and maintaining team culture. Companies are experimenting with core in-office days, asynchronous communication tools, and new meeting norms to balance flexibility with connection. Early data suggests that teams with clear communication guidelines report higher satisfaction, while teams without structure often report feelings of isolation despite having more flexibility."
+```
+Hybrid work has become the norm for many organizations, but it introduces challenges around collaboration, scheduling, and maintaining team culture. Companies are experimenting with core in-office days, asynchronous communication tools, and new meeting norms to balance flexibility with connection. Early data suggests that teams with clear communication guidelines report higher satisfaction, while teams without structure often report feelings of isolation despite having more flexibility.
+```
 
 **Step 2.** Ask for three different summary formats, one at a time:
 
