@@ -112,7 +112,7 @@ a rough timeline and a budget estimate for 10 people?
 
 ## Exercise - Inbox catch-up and decision-ready summary
 
-** Goal: Get caught up on a customer, project, or issue by turning a week of emails into a short summary.
+** Goal:** Get caught up on a customer, project, or issue by turning a week of emails into a short summary.
 
 ### Step 1 - Open a new Chat and enter the following:
 
@@ -135,7 +135,7 @@ Draft an email update to my manager.
 
 ## Task 2: Calendar check plus meeting follow-up draft
 
-** Goal: Find an upcoming meeting and prepare a follow-up message.
+** Goal:** Find an upcoming meeting and prepare a follow-up message.
 
 ### Prompt flow
 1. When is my next 1:1 meeting with *[person]*?
@@ -145,15 +145,31 @@ Draft an email update to my manager.
 
 ---
 
-## Exercise -  Upload a file and turn it into an executive-ready update
+## Exercise -  Create and Upload a file and turn it into an executive-ready update
 
-** Goal: Use an uploaded file to create a leadership summary.
+** Goal:** Use an uploaded file to create a leadership summary.
 
-### Prompt flow
-1. Upload the file.
-2. Summarize in 5 bullet points.
-3. Identify risks, decisions, and actions.
-4. Draft a short leadership email.
+### Step 1 - Open a new Chat and enter the following:
+
+```
+Create a 500 word summary of the 250th birthday of America
+```
+
+```
+Upload the file.
+```
+
+```
+Summarize in 5 bullet points.
+```
+
+```
+Identify risks, decisions, and actions.
+```
+
+```
+Draft a short leadership email.
+```
 
 ---
 
