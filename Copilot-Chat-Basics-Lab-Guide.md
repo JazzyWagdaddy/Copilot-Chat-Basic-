@@ -30,7 +30,7 @@ Write an email about the project.
 
 Read the response. Notice how generic it is — it has to guess at almost everything.
 
-**Step 2.** Now try a GCSE version. Replace the bracketed details with something realistic to your role:
+**Step 2.** Now try a GCSE version. Replace the *bracketed details* with something realistic to your role:
 
 ```
 I need to send a status update email to my manager about [project name].
@@ -52,10 +52,16 @@ explains the delay and proposes a solution.
 > "Hybrid work has become the norm for many organizations, but it introduces challenges around collaboration, scheduling, and maintaining team culture. Companies are experimenting with core in-office days, asynchronous communication tools, and new meeting norms to balance flexibility with connection. Early data suggests that teams with clear communication guidelines report higher satisfaction, while teams without structure often report feelings of isolation despite having more flexibility."
 
 **Step 2.** Ask for three different summary formats, one at a time:
+'''
+`Summarize this in one sentence.`
+'''
 
-- `Summarize this in one sentence.`
-- `Summarize this as 3 bullet points for a slide.`
-- `Summarize this for a 10-year-old.`
+'''
+`Summarize this as 3 bullet points for a slide.`
+'''
+
+'''
+`Summarize this for a 10-year-old.`
 
 **Step 3.** Notice that Copilot remembers the pasted text across all three requests — you didn't have to re-paste it. Write down which version you found most useful and why:
 
