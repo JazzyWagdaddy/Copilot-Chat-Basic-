@@ -8,10 +8,10 @@
 
 ***Remember GCSE***
 
-| **G**oal — what do you want it to do? | |
-| **C**ontext — who's it for / why? | |
-| **S**ource — what info should it use? | |
-| **E**xpectations — format, length, tone? | |
+**G**oal — what do you want it to do?
+**C**ontext — who's it for / why?
+**S**ource — what info should it use?
+**E**xpectations — format, length, tone?
 
 ---
 
