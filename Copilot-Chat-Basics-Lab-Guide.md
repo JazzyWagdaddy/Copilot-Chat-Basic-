@@ -6,11 +6,11 @@
 
 **You'll need:** A web browser and access to copilot.microsoft.com (or the Copilot app/pane your organization uses)
 
-***Remember GCSE
+***Remember GCSE***
 - Goal
 - Context
 - Source
-- Expectations***
+- Expectations
 
 ---
 
