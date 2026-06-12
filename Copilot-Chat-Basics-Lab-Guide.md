@@ -39,12 +39,7 @@ We're on track but [one task] is running a few days behind because of
 explains the delay and proposes a solution.
 ```
 
-**Step 3.** Compare the two responses. In the space below, jot down 1–2 differences you noticed:
-
-```
-_________________________________________________________________
-_________________________________________________________________
-```
+**Step 3.** Compare the two responses and make note of 1–2 differences.
 
 ---
 
