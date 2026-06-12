@@ -110,11 +110,13 @@ a rough timeline and a budget estimate for 10 people?
 
 ---
 
-## Exercise 4 — Stretch Goal: Real-World Prompt (remaining time)
+## Exercise 4 — Apply Copilot to a Real-World scenario.
 
 **Goal:** Apply GCSE to something from your actual job.
 
 Think of one task you do regularly that involves writing, summarizing, or organizing information. Using the GCSE framework below, write a prompt for it and try it in Copilot Chat.
+
+When you're ready and comfortable, please share your prompt with the class by pasting it into the chat window.
 
 | Element | Your notes |
 |---|---|
