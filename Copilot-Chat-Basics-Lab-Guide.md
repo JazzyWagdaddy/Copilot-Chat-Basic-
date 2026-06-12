@@ -7,10 +7,10 @@
 **You'll need:** A web browser and access to copilot.microsoft.com (or the Copilot app/pane your organization uses)
 
 ***Remember GCSE***
-- Goal
-- Context
-- Source
-- Expectations
+| **G**oal — what do you want it to do? | |
+| **C**ontext — who's it for / why? | |
+| **S**ource — what info should it use? | |
+| **E**xpectations — format, length, tone? | |
 
 ---
 
@@ -118,19 +118,7 @@ Think of one task you do regularly that involves writing, summarizing, or organi
 | **S**ource — what info should it use? | |
 | **E**xpectations — format, length, tone? | |
 
-**Your full prompt:**
-```
 
-
-
-```
-
-**How did it go?** Was the output usable as-is, or did you need to refine it?
-
-```
-_________________________________________________________________
-_________________________________________________________________
-```
 
 ---
 
