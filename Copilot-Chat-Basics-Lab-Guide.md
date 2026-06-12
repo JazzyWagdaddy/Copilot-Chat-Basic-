@@ -118,7 +118,7 @@ Get caught up on a customer, project, or issue by turning a week of emails into 
 ### Step 1 - Open a new Chat and enter the following:
 
 ```
-Summarize my emails from the last week related to *[insert topicc]*.
+Summarize my emails from the last week related to .
 ```
 
 ```
