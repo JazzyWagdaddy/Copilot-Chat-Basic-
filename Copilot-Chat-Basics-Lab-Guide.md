@@ -81,10 +81,6 @@ Summarize this for a 10-year-old.
 
 **Step 3.** Notice that Copilot remembers the pasted text across all three requests — you didn't have to re-paste it. Write down which version you found most useful and why:
 
-```
-_________________________________________________________________
-```
-
 ---
 
 ## Exercise 3 — Brainstorm and Refine (5 min)
