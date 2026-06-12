@@ -167,6 +167,10 @@ Create a 500 word summary of the 250th birthday of America
 ```
 
 ```
+save the file as a word document
+```
+
+```
 Upload the file.
 ```
 
