@@ -53,16 +53,18 @@ explains the delay and proposes a solution.
 
 **Step 2.** Ask for three different summary formats, one at a time:
 
-'''
-`Summarize this in one sentence.`
-'''
+```
+Summarize this in one sentence.
+```
 
-'''
-`Summarize this as 3 bullet points for a slide.`
-'''
+```
+Summarize this as 3 bullet points for a slide.
+```
 
-'''
-`Summarize this for a 10-year-old.`
+```
+Summarize this for a 10-year-old.
+```
+
 
 **Step 3.** Notice that Copilot remembers the pasted text across all three requests — you didn't have to re-paste it. Write down which version you found most useful and why:
 
