@@ -29,7 +29,7 @@
 
 ---
 
-## Exercise 1 — Vague Prompt vs. GCSE Prompt (5 min)
+## Exercise — Vague Prompt vs. GCSE Prompt (5 min)
 
 **Goal:** See the difference a well-structured prompt makes.
 
@@ -54,7 +54,7 @@ explains the delay and proposes a solution.
 
 ---
 
-## Exercise 2 — Summarize in Different Formats (5 min)
+## Exercise — Summarize in Different Formats (5 min)
 
 **Goal:** Practice the "Source" and "Expectations" parts of GCSE.
 
@@ -88,7 +88,7 @@ Summarize this for a 10-year-old.
 
 ---
 
-## Exercise 3 — Brainstorm and Refine (5 min)
+## Exercise — Brainstorm and Refine (5 min)
 
 **Goal:** Practice iterating instead of starting over.
 
@@ -110,7 +110,46 @@ a rough timeline and a budget estimate for 10 people?
 
 ---
 
-## Exercise 4 — Apply Copilot to a Real-World scenario.
+## Exercise - Inbox catch-up and decision-ready summary
+
+### Goal
+Get caught up on a customer, project, or issue by turning a week of emails into a short summary.
+
+### Prompt flow
+1. Summarize my emails from the last week related to Contoso escalation.
+2. What are the top themes, risks, and unresolved questions?
+3. Which messages are urgent?
+4. Draft an email update to my manager.
+
+---
+
+## Task 2: Calendar check plus meeting follow-up draft
+
+### Goal
+Find an upcoming meeting and prepare a follow-up message.
+
+### Prompt flow
+1. When is my next 1:1 meeting with *[person]*?
+2. Show recent related emails.
+3. Draft a short email confirming the meeting.
+4. Rewrite the email to be professional and under 120 words.
+
+---
+
+## Exercise -  Upload a file and turn it into an executive-ready update
+
+### Goal
+Use an uploaded file to create a leadership summary.
+
+### Prompt flow
+1. Upload the file.
+2. Summarize in 5 bullet points.
+3. Identify risks, decisions, and actions.
+4. Draft a short leadership email.
+
+---
+
+## Exercise — Apply Copilot to a Real-World scenario.
 
 **Goal:** Apply GCSE to something from your actual job.
 
