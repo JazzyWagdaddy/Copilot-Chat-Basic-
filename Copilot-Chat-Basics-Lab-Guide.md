@@ -115,11 +115,22 @@ a rough timeline and a budget estimate for 10 people?
 ### Goal
 Get caught up on a customer, project, or issue by turning a week of emails into a short summary.
 
-### Prompt flow
-1. Summarize my emails from the last week related to Contoso escalation.
-2. What are the top themes, risks, and unresolved questions?
-3. Which messages are urgent?
-4. Draft an email update to my manager.
+### Step 1 - Open a new Chat and enter the following:
+
+```
+Summarize my emails from the last week related to *[insert topicc]*.
+```
+
+```
+What are the top themes, risks, and unresolved questions?
+```
+```
+Which messages are urgent?
+```
+
+```
+Draft an email update to my manager.
+```
 
 ---
 
