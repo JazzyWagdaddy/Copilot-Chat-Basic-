@@ -1,7 +1,9 @@
 # Microsoft Copilot Chat Basics — Hands-On Lab Guide
 
 **Audience:** Beginners with little or no prior AI chat experience
+
 **Time:** ~20 minutes
+
 **You'll need:** A web browser and access to copilot.microsoft.com (or the Copilot app/pane your organization uses)
 
 ---
