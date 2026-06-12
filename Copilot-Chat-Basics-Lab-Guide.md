@@ -167,7 +167,7 @@ Create a 500 word summary of the 250th birthday of America
 ```
 
 ```
-save the file as a word document
+save the file 
 ```
 
 ```
@@ -214,4 +214,4 @@ When you're ready and comfortable, please share your prompt with the class by pa
 - [ ] I tried Copilot Chat with pasted source text
 - [ ] I have one idea for how I'll use Copilot Chat this week
 
-**This week's challenge:** Use Copilot Chat for one real (non-sensitive) task before our next session.
+**This week's challenge:** Use Copilot Chat for one real (non-sensitive) task.
