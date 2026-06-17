@@ -196,8 +196,8 @@ Think of one task you do regularly that involves writing, summarizing, or organi
 
 When you're ready and comfortable, please share your prompt with the class by pasting it into the chat window.
 
-| Element | Your notes |
-|---|---|
+| Element |
+|---|
 | **G**oal — what do you want it to do? |
 | **C**ontext — who's it for / why? |
 | **S**ource — what info should it use? |
