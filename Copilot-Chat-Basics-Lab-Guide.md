@@ -4,7 +4,7 @@
 
 **Time:** ~20 minutes
 
-**You'll need:** A web browser and access to copilot.microsoft.com (or the Copilot app/pane your organization uses)
+**You'll need:** A web browser and access to copilot.microsoft.com (or the Copilot app/pane your organization uses such https://m365.cloud.microsoft/chat)
 
 ***Remember GCSE***
 
