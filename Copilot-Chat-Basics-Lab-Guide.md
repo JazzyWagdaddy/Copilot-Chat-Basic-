@@ -117,7 +117,7 @@ a rough timeline and a budget estimate for 10 people?
 ### Step 1 - Open a new Chat and enter the following:
 
 ```
-Summarize my emails from the last week related to
+Summarize my emails from the last week 
 ```
 
 ```
@@ -167,11 +167,11 @@ Create a 500 word summary of the 250th birthday of America
 ```
 
 ```
-save the file 
+Create a structured document version
 ```
 
 ```
-Upload the file.
+Create a formal government style document
 ```
 
 ```
@@ -179,11 +179,11 @@ Summarize in 5 bullet points.
 ```
 
 ```
-Identify risks, decisions, and actions.
+Create a Word formatted layout
 ```
 
 ```
-Draft a short leadership email.
+Create a three bullet executive summary
 ```
 
 ---
