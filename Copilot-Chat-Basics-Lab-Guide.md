@@ -119,7 +119,7 @@ a rough timeline and a budget estimate for 10 people?
 ```
 Summarize my emails from the last week 
 ```
-
+![Consent](../Consent.jpg)
 ```
 What are the top themes, risks, and unresolved questions?
 ```
