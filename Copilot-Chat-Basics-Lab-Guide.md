@@ -198,10 +198,10 @@ When you're ready and comfortable, please share your prompt with the class by pa
 
 | Element | Your notes |
 |---|---|
-| **G**oal — what do you want it to do? | |
-| **C**ontext — who's it for / why? | |
-| **S**ource — what info should it use? | |
-| **E**xpectations — format, length, tone? | |
+| **G**oal — what do you want it to do? |
+| **C**ontext — who's it for / why? |
+| **S**ource — what info should it use? |
+| **E**xpectations — format, length, tone? |
 
 
 
